@@ -444,7 +444,7 @@
     "address": "Đường Số 3, KCN Nhơn Trạch 6, Xã Phước An, Thành Phố Đồng Nai, Việt Nam",
     "mst": "3603638292",
     "short": "PARKER-\nASUN",
-    "note": "<span style=\"color: red; font-weight: bold;\">Thành Phố không được viết tắt</span>",
+    "note": "<span style="color:red">Thành Phố không được viết tắt</span>",
     "updatedAt": ""
   },
   {
