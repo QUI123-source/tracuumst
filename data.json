@@ -180,7 +180,7 @@
     "address": "40 Đường Số 2, Khu Phố 2, Phường Bình Trưng,  Thành phố Hồ Chí Minh, Việt Nam",
     "mst": "0311929281",
     "short": "NÂNG / HẠ CSB",
-    "note": "",
+    "note": "<span style='color:blue;font-weight:bold'>NÂNG/HẠ CÔNG TY</span> <span style='color:red;font-weight:bold'>CSB</span> <span style='color:blue;font-weight:bold'>THÌ XUẤT THEO THÔNG TIN NÀY</span>",
     "updatedAt": ""
   },
   {
@@ -419,8 +419,8 @@
     "name": "CÔNG TY TNHH THƯƠNG MẠI HẢI MINH",
     "address": "Tổ 14, Khu phố Hiệp Phước, Phường Nhơn Trạch, Thành phố Đồng Nai, Việt Nam",
     "mst": "3600615508",
-    "short": "NÂNG/HẠ HENGLI\nHAIMINH",
-    "note": "",
+    "short": "NÂNG/HẠ HENG LI",
+    "note": "<span style='color:blue;font-weight:bold'>NÂNG/HẠ CÔNG TY</span> <span style='color:red;font-weight:bold'>HENG LI</span> <span style='color:blue;font-weight:bold'>THÌ XUẤT THEO THÔNG TIN NÀY</span>",
     "updatedAt": ""
   },
   {
